@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">MotoX LED</string>
+    <string name="but_set">Set Moto X LED</string>
+    <string name="but_playstore">My Play Store Apps</string>
+    
+
+</resources>
